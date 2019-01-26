@@ -1,0 +1,20 @@
+{
+  "name": "ls-init",
+  "version": "1.1.0",
+  "description": "an initialization module to give us JSON for an indie game engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/LS-init.git"
+  },
+  "author": "Ehawk LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/LS-init/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/LS-init#readme"
+}
